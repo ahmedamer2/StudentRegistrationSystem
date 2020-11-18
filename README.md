@@ -1,4 +1,4 @@
-# StudentRegistrationSystemV2
+# StudentRegistrationSystem
 
 emmulates student registration system
 
